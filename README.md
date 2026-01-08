@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manjeet kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manjeet kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/manjeet_9921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manjeet_9921" height="30" width="40" /></a>
+<a href="https://instagram.com/manjeet_91101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manjeet_91101" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pero" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/manjeet kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manjeet kumar" height="30" width="40" /></a>
 <a href="https://discord.gg/PERO_player.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PERO_player.99" height="30" width="40" /></a>
